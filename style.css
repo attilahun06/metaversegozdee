@@ -1,0 +1,72 @@
+body {
+  background-color: pink;
+  background-image: url("img/866f30792413dcb70ce06c91c1ad3f4e.gif");
+}
+
+h1 {
+  display: block;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+img {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cin {
+  margin-top: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  color: white;
+}
+
+.eser {
+  background-image: url("img/hearts.gif");
+}
+
+.eserlerim {
+  font-size: 75px;
+}
+
+.vc {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+.siir {
+  width: 600px;
+  height: 600px;
+  margin-bottom: 150px;
+}
+
+.gifler {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 50px;
+}
+
+.d-block {
+  width: 50%;
+  height: 50%;
+}
+
+.koro {
+  background-image: url("img/koro.gif");
+}
+
+.gifgif {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 50px;
+}
